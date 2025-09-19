@@ -33,7 +33,7 @@ pip install yt-dlp
 ##🛠️ Setup
 1. 	Clone the repository:
 ```sh
-git clone git@github.com:JoranJix/dicord-musicbot.git
+git clone https://github.com/JoranJix/dicord-musicbot.git
 cd musicbot
 ```
 2. 	Create a  file
